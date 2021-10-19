@@ -1,0 +1,6 @@
+{
+    "name": "mynewproject",
+    "dependencies": {
+        "arches": "archesproject/arches#stable/5.1.4"
+    }
+}

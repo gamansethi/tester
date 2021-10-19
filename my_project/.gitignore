@@ -1,0 +1,9 @@
+*.pyc
+*.log
+my_project/logs
+my_project/export_deliverables
+my_project/cantaloupe/*
+my_project/media/packages
+my_project/uploadedfiles/*
+my_project/settings_local.py
+.vscode/
